@@ -1,6 +1,0 @@
-[submodule "file-diff"]
-	path = file-diff
-	url = https://github.com/YONDE927/file-diff.git
-[submodule "peer-socket"]
-	path = peer-socket
-	url = https://github.com/YONDE927/peer-socket.git
